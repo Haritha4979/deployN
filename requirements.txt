@@ -8,3 +8,4 @@ chromadb
 nest_asyncio      
 langchain-google-genai
 tiktoken
+faiss-cpu    
