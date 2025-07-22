@@ -5,3 +5,5 @@ langchain
 langchain-community
 openai
 chromadb
+nest_asyncio      
+langchain-google-genai
